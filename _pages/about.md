@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "about"
+title: "ABOUT"
 author_profile: true
 redirect_from: 
   - /about/
@@ -14,7 +14,7 @@ My journey in research has been driven by a relentless commitment to exploring t
 Thank you for visiting, and I look forward to connecting with you.
 
 
-Mofoluke (4Is)
+MOFOLUKE (4Is)
 ======
 Prior to my academic career pursuits:
 (1) I gained valuable experience in the banking sector at Zenith Bank Plc, Nigeria.
