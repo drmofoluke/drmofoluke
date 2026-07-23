@@ -1,5 +1,5 @@
 ---
-permalink: /drmofoluke
+permalink: /about
 title: "Welcome to my website!"
 author_profile: true
 redirect_from: 
