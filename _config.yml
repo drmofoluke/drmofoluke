@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Dr Mofoluke Akiode / Site Title"
+title                    : "Dr Mofoluke Akiode"
 title_separator          : "-"
 name                     : &name "Dr Mofoluke"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Department of Marketing"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://academicpages.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,9 +26,13 @@ author:
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Welcome to my website! I am a lecturer at University of Ilorin, and a researcher committed to advancing scholarly knowledge in the areas of Entrepreneurial Ecosystems, Transnational (diaspora) Entrepreneurship, and Inclusive Business.
+
+My journey in research has been driven by a relentless commitment to exploring these research areas and contributing valuable insights to them. I firmly believe that research is a powerful catalyst for positive change, and my work is driven by the aim to foster growth, innovation, and transformation.
+
+Thank you for visiting, and I look forward to connecting with you."
   location         : "Earth"
-  employer         : "Red Brick University"
+  employer         : "University of Ilorin"
   uri              : # URL
   email            : "none@example.org" 
 
