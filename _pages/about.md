@@ -16,42 +16,32 @@ Thank you for visiting, and I look forward to connecting with you.
 
 Mofoluke (4Is)
 ======
-Prior to my academic career pursuits: (1) I gained valuable experience in the banking sector at Zenith Bank Plc, Nigeria.
+Prior to my academic career pursuits:
+(1) I gained valuable experience in the banking sector at Zenith Bank Plc, Nigeria.
 (2) I have held teaching and tutoring roles at Bells University Ota and Aberystwyth University UK.
-
 (3) I completed my PhD in Aberystwyth Business School.
-
 (4) I have a Bachelor’s degree in Accounting (2nd Class Upper) from University of Ilorin, Nigeria and a Master’s in Management and International Business (Distinction) from Birmingham City University, UK.
 
-Getting started
+STRIVING FOR A LIFETIME OF ARETE
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](https://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Thanks for stopping by! I’m glad you’re here. You might be wondering about the story behind my slogan “Striving for a lifetime of Arete” – here’s what it’s all about.
 
-Site-wide configuration
+It’s a slogan that reflects my core values and what I want to convey to others. I’ve used it on my old websites and on my social media profiles. You can also think of it as a personal branding tool that concisely communicates who I am and what I stand for.
+
+Fun fact: My Ph.D. website was Arete Scholar, and after graduation, I had a small business website called Arete for Businesses. And there’s also Arete Trailblazers…
+
+So, what is Arete, and why am I striving for it? A quick Google search will show you that Arete is an ancient Greek word describing virtue, spiritual and moral excellence, effectiveness, and fulfilling one’s purpose. While you can read more broadly about it online, I want to briefly explain what Arete means to me personally. For me, the foundation of Arete comes from the Bible (Philippians 4:8; 1 Peter 2:9; 2 Peter 1:5-7).
+
+The Meaning of Arete to Me
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+irst, as a Christian, the Bible emphasizes the importance of living a virtuous life. I believe that virtue is about living the way God designed me to be. However, since I am inherently weak as a human being, I can only acquire virtue through an absolute reliance on the power of God. This is how I can become what God wants me to be and fulfill my purpose.
 
-Create content & metadata
-------
-For site content, there is one Markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a Markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each Markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+Second, spirituality isn’t about emotions but about thoughts shaped by the word of God. The Bible encourages me to think about things that are true, noble, pure, lovely, and admirable. This practice grounds my confidence in God, which helps me successfully navigate human relationships and situations that would otherwise upset or depress me. Through this, I develop a greater capacity for life, love, and happiness.
 
-**Markdown generator**
+Third, as I continue to grow daily in my faith, I strive to cultivate moral excellence. I try to ensure that my work, my interests, and the way I live my life all exemplify excellence and virtue.
 
-The repository includes [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual Markdown files that will be properly formatted for the Academic Pages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the Markdown files, then commit and push them to the GitHub repository.
+One of my research interests is exploring how to support disadvantaged groups (like smallholders) and help them move from poverty through entrepreneurship. I believe that understanding and applying the principle of Arete helps in exploring genuine solutions to this sort of problem. To me, this isn’t just another research project; it’s part of fulfilling my purpose. My ideas are grounded in the word of God and inspired by Him, and I strive to cultivate excellence as I execute them.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and Markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Finally, I believe Arete is a lifelong journey, hence the word ‘striving.’ As Paul wrote, “I don’t mean to say that I have already achieved these things or that I have already reached perfection. But I press on to possess that perfection for which Christ Jesus first possessed me” (Philippians 3:12).
 
-Example: editing a Markdown file for a talk
-![Editing a Markdown file for a talk](/images/editing-talk.png)
 
-For more info
-------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
