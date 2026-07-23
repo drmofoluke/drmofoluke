@@ -16,7 +16,7 @@ Thank you for visiting, and I look forward to connecting with you.
 
 Mofoluke (4Is)
 ======
-rior to my academic career pursuits: (1) I gained valuable experience in the banking sector at Zenith Bank Plc, Nigeria.
+Prior to my academic career pursuits: (1) I gained valuable experience in the banking sector at Zenith Bank Plc, Nigeria.
 (2) I have held teaching and tutoring roles at Bells University Ota and Aberystwyth University UK.
 
 (3) I completed my PhD in Aberystwyth Business School.
