@@ -34,7 +34,7 @@ So, what is Arete, and why am I striving for it? A quick Google search will show
 
 The Meaning of Arete to Me
 ------
-irst, as a Christian, the Bible emphasizes the importance of living a virtuous life. I believe that virtue is about living the way God designed me to be. However, since I am inherently weak as a human being, I can only acquire virtue through an absolute reliance on the power of God. This is how I can become what God wants me to be and fulfill my purpose.
+First, as a Christian, the Bible emphasizes the importance of living a virtuous life. I believe that virtue is about living the way God designed me to be. However, since I am inherently weak as a human being, I can only acquire virtue through an absolute reliance on the power of God. This is how I can become what God wants me to be and fulfill my purpose.
 
 Second, spirituality isn’t about emotions but about thoughts shaped by the word of God. The Bible encourages me to think about things that are true, noble, pure, lovely, and admirable. This practice grounds my confidence in God, which helps me successfully navigate human relationships and situations that would otherwise upset or depress me. Through this, I develop a greater capacity for life, love, and happiness.
 
