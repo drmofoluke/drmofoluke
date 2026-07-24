@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 3"
+title: "It takes an ecosystem to reduce poverty: a call for research on inclusive business entrepreneurial ecosystems"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2026-12-14-it-takes-an-ecosystem-to-reduce-poverty-a-call-for-research-on-inclusive-business-entrepreneurial-ecosystems
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
+date: 2026-12-14
 venue: 'Journal 1'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
