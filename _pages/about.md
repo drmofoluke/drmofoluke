@@ -11,16 +11,7 @@ I am a lecturer at University of Ilorin, and a researcher committed to advancing
 
 My journey in research has been driven by a relentless commitment to exploring these research areas and contributing valuable insights to them. I firmly believe that research is a powerful catalyst for positive change, and my work is driven by the aim to foster growth, innovation, and transformation.
 
-Thank you for visiting, and I look forward to connecting with you.
 
-
-MOFOLUKE (4Is)
-======
-Prior to my academic career pursuits:
-(1) I gained valuable experience in the banking sector at Zenith Bank Plc, Nigeria.
-(2) I have held teaching and tutoring roles at Bells University Ota and Aberystwyth University UK.
-(3) I completed my PhD in Aberystwyth Business School.
-(4) I have a Bachelor’s degree in Accounting (2nd Class Upper) from University of Ilorin, Nigeria and a Master’s in Management and International Business (Distinction) from Birmingham City University, UK.
 
 STRIVING FOR A LIFETIME OF ARETE
 ======
@@ -45,3 +36,12 @@ One of my research interests is exploring how to support disadvantaged groups (l
 Finally, I believe Arete is a lifelong journey, hence the word ‘striving.’ As Paul wrote, “I don’t mean to say that I have already achieved these things or that I have already reached perfection. But I press on to possess that perfection for which Christ Jesus first possessed me” (Philippians 3:12).
 
 
+MOFOLUKE (4Is)
+======
+Prior to my academic career pursuits:
+(1) I gained valuable experience in the banking sector at Zenith Bank Plc, Nigeria.
+(2) I have held teaching and tutoring roles at Bells University Ota and Aberystwyth University UK.
+(3) I completed my PhD in Aberystwyth Business School.
+(4) I have a Bachelor’s degree in Accounting (2nd Class Upper) from University of Ilorin, Nigeria and a Master’s in Management and International Business (Distinction) from Birmingham City University, UK.
+
+Thank you for visiting, and I look forward to connecting with you.
