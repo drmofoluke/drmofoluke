@@ -5,7 +5,7 @@ permalink: /posts/2026/19/what’s-in-a-name?/
 tags:
   - symbols
   - meanings
-  - action
+  - action 
 ---
 
 “What’s your Christian name?” 
