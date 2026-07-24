@@ -10,13 +10,12 @@ tags:
 
 “What’s your Christian name?”
 
-======
 Mr Biala: “Biala.”
-======
+
 She: “That’s not it—your Christian name?”
-======
+
 Mr Biala: “Biala.”
-======
+
 Then he said, “Read Psalm 126:1 in Yoruba.”
 Names are symbols whose meanings are created, interpreted and reshaped by human interaction and shared understanding.
 
