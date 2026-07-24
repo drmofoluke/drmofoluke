@@ -3,9 +3,9 @@ title: "It takes an ecosystem to reduce poverty: a call for research on inclusiv
 collection: publications
 category: manuscripts
 permalink: /publication/2026-12-14-it-takes-an-ecosystem-to-reduce-poverty-a-call-for-research-on-inclusive-business-entrepreneurial-ecosystems
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+excerpt: 'This paper is about Inclusive business (IB), a sustainable development strategy and poverty alleviation intervention that is receiving growing scholarly and policy interest.'
 date: 2026-12-14
-venue: 'Journal 1'
+venue: 'Emerald Insight: RAE: Revista de Administracao de Empresas'
 slidesurl: 'https://academicpages.github.io/files/slides3.pdf'
 paperurl: 'https://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
