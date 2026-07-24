@@ -33,6 +33,7 @@ I told them that whether they meet under a tree or on a rooftop, they should bea
 1.	Always remember who you are in Christ—a city set on a hill that cannot be hidden (Matt. 5:14).
 2.	Always act with integrity and live honestly (1 Peter 2:12, 19–23; 1 Peter 1:15–16).
 3.	You shine not by perfection but by obedience and faithfulness (Philippians 3:12–14).
+   
 I might one day write a book titled The Intended Outcomes, Unintended Consequences, because “yet in all these things we are more than conquerors through Him who loved us” (Romans 8:37).
 
 ------
