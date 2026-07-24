@@ -4,9 +4,9 @@ date: 2026-06-15
 published: true
 permalink: /posts/2026-06/15/intended-outcomes-unintended-consequences/
 tags:
-  - Outcomes
-  - Consequences
-  - Intended
+  - outcomes
+  - consequences
+  - intended
 ---
 
 We are embedded in systems, and they are made of dynamic, interacting parts where new patterns emerge unpredictably. Outcomes are nonlinear, emergent, and adaptive. Recently, I was speaking to a group who asked me two specific questions, and I have been mulling over them for days now and decided to write this extended post, building on the talk. The first question was to share the path that led me to where I am and how I first encountered them as a group. With limited time allotted, I decided to speak the language they would understand.
