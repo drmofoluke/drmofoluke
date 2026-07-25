@@ -39,9 +39,13 @@ Finally, I believe Arete is a lifelong journey, hence the word ‘striving.’ A
 MOFOLUKE (4Is)
 ======
 Prior to my academic career pursuits:
+
 (1) I gained valuable experience in the banking sector at Zenith Bank Plc, Nigeria.
+
 (2) I have held teaching and tutoring roles at Bells University Ota and Aberystwyth University UK.
+
 (3) I completed my PhD in Aberystwyth Business School.
+
 (4) I have a Bachelor’s degree in Accounting (2nd Class Upper) from University of Ilorin, Nigeria and a Master’s in Management and International Business (Distinction) from Birmingham City University, UK.
 
 Thank you for visiting, and I look forward to connecting with you.
