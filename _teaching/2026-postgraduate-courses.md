@@ -8,8 +8,6 @@ date: 2026-04-24
 location: "Ilorin, Nigeria"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
 Rain Semester
 ======
 MKT 818: Product Development and Management
