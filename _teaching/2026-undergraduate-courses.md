@@ -2,7 +2,7 @@
 title: "Teaching"
 collection: teaching
 type: "Undergraduate courses"
-permalink: /teaching/2026-rain-semester
+permalink: /teaching/2026-undergraduate-courses
 venue: "University of Ilorin, Marketing Department"
 date: 2026-04-24
 location: "Ilorin, Nigeria"
