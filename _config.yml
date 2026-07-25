@@ -27,12 +27,10 @@ author:
   name             : "Dr Mofoluke Akiode"
   pronouns         : # example: "she/her"  
   bio              : "Research areas: Entrepreneurial Ecosystems, Transnational (diaspora) Entrepreneurship, and Inclusive Business."
-
   location         : "Nigeria"
   employer         : "University of Ilorin"
   uri              : # https://marketing.management.unilorin.edu.ng/staffmember/dr-akiode-mofoluke-omoboni/
   email            : "akiode.mo@unilorin.edu.ng" 
-
   # Academic websites
   web of science   : "https://www.webofscience.com/wos/author/record/JGL-9506-2023"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=mCJUNeUAAAAJ"
@@ -53,8 +51,8 @@ publication_category:
     title: 'Books'
   manuscripts:
     title: 'Journal Articles'    
-  conferences:
-    title: 'Conference Papers'
+  others:
+    title: 'Research'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
