@@ -2,7 +2,7 @@
 title: "Factor analysis using principal component (PCA) method in SPSS with data 
 from CGAP Smallholder Household Survey (2016)"
 collection: publications
-category: others
+category: research
 permalink: /publication/2025-06-11-factor-analysis-using-principal-component-(PCA)-method-in-spss-with-data-from-cgap-smallholder-household-survey-(2016)
 excerpt: 'This dataset explains and provides a step-by-step guide to Exploratory Factor Analysis (EFA) using the Principal Component (PCA) method.'
 date: 2025-06-11
