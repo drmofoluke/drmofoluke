@@ -3,7 +3,7 @@ title: "Becoming from within: Understanding the emergence and
 embeddedness of inclusive agribusiness entrepreneurs"
 collection: publications
 category: manuscripts
-permalink: /publication/2025-11-20-Becoming from within: Understanding the emergence and
+permalink: /publication/2025-11-20-becoming from within-understanding the emergence and
 embeddedness of inclusive agribusiness entrepreneurs
 excerpt: 'The entrepreneurial ecosystems (EEs) literature often overlooks rural contexts and developing economies where productive entrepreneurship is assumed to be limited in scope. To address this oversight, we explore the phenomenon of inclusive agribusiness (IAB) entrepreneurs who adopt sustainable agricultural practices to drive poverty alleviation in low-income rural areas. '
 venue: 'Wiley Online Library: Poverty & Public Policy'
