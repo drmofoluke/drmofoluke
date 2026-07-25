@@ -1,15 +1,12 @@
 ---
 title: "Teaching"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate courses"
 permalink: /teaching/2026-rain-semester
 venue: "University of Ilorin, Marketing Department"
 date: 2026-04-24
 location: "Ilorin, Nigeria"
 ---
-
-Welcome to my teaching page. I am passionate about helping students develop strong analytical, and problem-solving skills. My courses emphasize practical learning, critical thinking, and real-world applications.
-
 
 Current Courses
 ======
