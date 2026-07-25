@@ -8,6 +8,8 @@ date: 2026-04-24
 location: "Ilorin, Nigeria"
 ---
 
+
+
 Rain Semester
 ======
 MKT 818: Product Development and Management
