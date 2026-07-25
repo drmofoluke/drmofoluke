@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Undergraduate Teaching"
 collection: teaching
 type: "Undergraduate courses"
 permalink: /teaching/2026-undergraduate-courses
