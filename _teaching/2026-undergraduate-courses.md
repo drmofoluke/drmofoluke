@@ -1,6 +1,6 @@
 ---
-title: "Undergraduate Teaching"
-collection: teaching
+title: "Teaching"
+collection: undergraduate teaching
 type: "Undergraduate courses"
 permalink: /teaching/2026-undergraduate-courses
 venue: "University of Ilorin, Marketing Department"
