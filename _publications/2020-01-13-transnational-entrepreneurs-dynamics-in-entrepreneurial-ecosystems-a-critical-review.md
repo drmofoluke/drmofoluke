@@ -1,3 +1,4 @@
+---
 title: "Transnational Entrepreneurs’Dynamics in Entrepreneurial Ecosystems: A Critical Review. Journal of Entrepreneurship and Innovation in Emerging Economies"
 collection: publications
 category: manuscripts
