@@ -23,7 +23,6 @@ MKT 220: Food & Agricultural Marketing (2 Units C: LH 30)
 
 Course Description:
 Agricultural marketing covers the services involved in moving an agricultural produce from the farm to the consumer. These services involve the planning, organizing, directing as well as the application of marketing tools in the handling of agricultural produce in such a way as to satisfy farmers, intermediaries and consumers. 
-Principles of Marketing Management
 
 
 
