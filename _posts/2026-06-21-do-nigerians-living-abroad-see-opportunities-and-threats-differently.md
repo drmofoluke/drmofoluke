@@ -30,4 +30,4 @@ It is important to understand how Nigerians living abroad, who have an entrepren
 Conclusion
 ======
 The paper looked at how diasporans view their resources and the business environment in their home country. It found that, compared to other entrepreneurs, diasporans do not see the opportunities and threats of doing business in Nigeria differently.
-Akiode, M. (2023). Positioning diasporans as change agents in the SME sector. American Journal of Management, 23(1), 112-125. <a href="https://www.drmofoluke.website/publication/2009-10-01-positioning-diasporans-as-change-agents-in-the-sma-sector" target="_blank" rel="noopener noreferrer">Read more.
+Akiode, M. (2023). Positioning diasporans as change agents in the SME sector. American Journal of Management, 23(1), 112-125. <a href="[https://www.drmofoluke.website/publication/2009-10-01-positioning-diasporans-as-change-agents-in-the-sma-sector](https://www.drmofoluke.website/publication/2023-03-21-using-mixed-mode-survey-in-exploring-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems'" target="_blank" rel="noopener noreferrer">Read more.
