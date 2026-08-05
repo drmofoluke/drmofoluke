@@ -1,6 +1,6 @@
 ---
 title: 'Do Nigerians Living Abroad See Opportunities and Threats Differently?'
-date: 2026-06-21
+date: 2026-06-21 
 published: true
 permalink: /posts/2026-06/21/do-nigerians-living-abroad-see-opportunities-and-threats-differently/
 tags:
@@ -12,7 +12,7 @@ Nigerians living abroad are often referred to as people in the diaspora or diasp
 In many developing countries like Nigeria, Small and Medium-Sized Enterprises (SMEs) operate in a challenging business environment. Many people believe that diasporans can make a difference as part of an entrepreneurial ecosystem, a network of people, institutions, and organisations that support entrepreneurship.
 
 Change in the Outlooks of Nigerians Living Abroad
-======
+====== 
 It is generally believed that one's outlook can change due to living abroad. Although relocating abroad (japa) can be a life-changing experience, the extent of the change in people's outlooks differs. For some, it can be quite dramatic, while others may find that their perspectives change more gradually. Generally, travelling widely and living abroad can challenge existing beliefs and assumptions, and it can help people develop a more open and tolerant outlook.
 
 Some Reasons for Changes in the Perspectives of Nigerians Living Abroad
