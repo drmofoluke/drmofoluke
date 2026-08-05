@@ -21,10 +21,10 @@ Please include a clear subject line to help me respond more efficiently.
 
 - **Google Scholar:**  <a href="https://scholar.google.com/citations?hl=en&user=mCJUNeUAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar
 - **Web of Science:** <a href="https://webofscience.com/wos/author/record/JGL-9506-2023" target="_blank" rel="noopener noreferrer">Web of Science
-- **SCOPUS:** <a href="https://www.scopus.com/authid/detail.uri?authorId=57402049700" target="_blank" rel="noopener noreferrer">SCOPUS
+- **SCOPUS:** <a href="https://www.scopus.com/authid/detail.uri?authorId=57402049700" target="_blank" rel="noopener noreferrer">Scopus
 - **ORCID:** <a href="https://orcid.org/0000-0002-0219-8896" target="_blank" rel="noopener noreferrer">ORCID
-- **LinkedIn:** <a href="https://ng.linkedin.com/in/mofolukeomoboniakiode" target="_blank" rel="noopener noreferrer">LINKEDIN 
-- **ResearchGate:** <a href="https://www.researchgate.net/profile/Mofoluke-Akiode-2" target="_blank" rel="noopener noreferrer">RESEARCHGATE
+- **LinkedIn:** <a href="https://ng.linkedin.com/in/mofolukeomoboniakiode" target="_blank" rel="noopener noreferrer">Linkedin 
+- **ResearchGate:** <a href="https://www.researchgate.net/profile/Mofoluke-Akiode-2" target="_blank" rel="noopener noreferrer">Researchgate
 
 ### Research Interests
 
