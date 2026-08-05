@@ -9,7 +9,7 @@ author_profile: true
 
 Thank you for visiting my website.
 
-I welcome enquiries regarding research collaborations, academic partnerships, conference participation, consultancy projects, speaking engagements, peer review activities, and postgraduate supervision opportunities.
+I welcome enquiries regarding research collaborations, academic partnerships, conference participation, consultancy projects, speaking engagements, and peer review activities.
 
 ### Email
 
@@ -19,7 +19,7 @@ Please include a clear subject line to help me respond more efficiently.
 
 ### Professional Profiles
 
-- **Google Scholar:** https://scholar.google.com/
+- **Google Scholar:**  <a href="https://scholar.google.com/citations?hl=en&user=mCJUNeUAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar
 - **Web of Science:** https://www.webofscience.com/wos/author/record/JGL-9506-2023</a>
 - **ORCID:** https://orcid.org/0000-0002-0219-8896</a>
 - **LinkedIn:** https://linkedin.com/
@@ -29,20 +29,18 @@ Please include a clear subject line to help me respond more efficiently.
 
 My research interests include:
 
-- Entrepreneurship
 - Entrepreneurial Ecosystems
 - Diaspora and Transnational Entrepreneurship
-- Small and Medium-Sized Enterprises (SMEs)
-- Innovation and Knowledge Transfer
+- Inclusive Business
 - Sustainable Development
 
 ### Collaborations
 
-I am particularly interested in collaborating with researchers, policymakers, practitioners, and organisations working in the areas of entrepreneurship, innovation, business development, and economic transformation.
+I am particularly interested in collaborating with researchers, policymakers, practitioners, and organisations working in the areas of poverty & entrepreneurship.
 
 ### Location
 
-Lagos, Nigeria
+Ilorin, Nigeria
 
 ---
 
