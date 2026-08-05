@@ -17,8 +17,8 @@ main:
   - title: "Blog Posts"
     url: /blog-post/
     
-  - title: ""
-    url: //
+  - title: "Contact"
+    url: /contact/
     
   # - title: "CV"
   #   url: /cv-json/
