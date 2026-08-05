@@ -20,8 +20,8 @@ Please include a clear subject line to help me respond more efficiently.
 ### Professional Profiles
 
 - **Google Scholar:** https://scholar.google.com/
-- **Web of Science:** https://www.webofscience.com/wos/author/record/JGL-9506-2023/
-- **ORCID:** https://orcid.org/0000-0002-0219-8896
+- **Web of Science:** https://www.webofscience.com/wos/author/record/JGL-9506-2023</a>
+- **ORCID:** https://orcid.org/0000-0002-0219-8896</a>
 - **LinkedIn:** https://linkedin.com/
 - **ResearchGate:** https://www.researchgate.net/
 
