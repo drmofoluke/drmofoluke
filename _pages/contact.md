@@ -20,8 +20,8 @@ Please include a clear subject line to help me respond more efficiently.
 ### Professional Profiles
 
 - **Google Scholar:**  <a href="https://scholar.google.com/citations?hl=en&user=mCJUNeUAAAAJ" target="_blank" rel="noopener noreferrer">Google Scholar
-- **Web of Science:** https://www.webofscience.com/wos/author/record/JGL-9506-2023</a>
-- **ORCID:** https://orcid.org/0000-0002-0219-8896</a>
+- **Web of Science:** <a href="https://webofscience.com/wos/author/record/JGL-9506-2023" target="_blank" rel="noopener noreferrer">Web of Science
+- **ORCID:** <a href="https://orcid.org/0000-0002-0219-8896"target="_blank" rel="noopener noreferrer">ORCID
 - **LinkedIn:** https://linkedin.com/
 - **ResearchGate:** https://www.researchgate.net/
 
