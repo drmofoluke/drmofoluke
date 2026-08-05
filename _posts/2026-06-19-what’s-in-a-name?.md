@@ -44,4 +44,5 @@ Moral
 Not every English name is a Christian name and some non-English names have scriptural meanings.
 Just me loving the symbol-meaning-action interpretive lens 
 
-😁📖 I hope I made you look up scriptures. Happy weekend! 
+😁📖 
+I hope I made you look up scriptures. Happy weekend! 
