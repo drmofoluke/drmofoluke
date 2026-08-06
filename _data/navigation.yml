@@ -15,7 +15,7 @@ main:
     url: /teaching/ 
     
   - title: "Blog Posts"
-    url: /blog-post/
+    url: /blog-posts/
     
   - title: "Contact"
     url: /contact/
