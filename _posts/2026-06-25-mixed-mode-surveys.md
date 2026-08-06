@@ -29,5 +29,5 @@ Readers might also be interested in the paper: Transnational Entrepreneurs’ Dy
 Conclusion
 ====
 After studying this case, readers should be able to understand why mixed-mode surveys are chosen based on methodological considerations. Readers should also be able to understand the connection between research questions and data analysis techniques. Finally, they should be able to explain the rationale behind the effective use of mixed-mode surveys.
-Akiode, M., & Fuller-Love, N. (2023). Using Mixed-Mode Survey in Exploring Transnational Entrepreneurial Ecosystems. Sage Research Methods: Business. <a href="https://www.drmofoluke.website/publication/2009-10-01-positioning-diasporans-as-change-agents-in-the-sma-sector" target="_blank" rel="noopener noreferrer">Read More
+Akiode, M., & Fuller-Love, N. (2023). Using Mixed-Mode Survey in Exploring Transnational Entrepreneurial Ecosystems. Sage Research Methods: Business. 
 
