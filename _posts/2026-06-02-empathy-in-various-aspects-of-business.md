@@ -26,7 +26,7 @@ As one of the essential tools in the design process, empathy helps in understand
 Empathy also helps individuals connect with potential collaborators, audiences, and readers in a more meaningful way. For example, empathy as a business tool in content writing is about writing for, and with, the reader in mind.
 When empathy is used in the right way, it becomes a business tool that helps identify the unmet needs of others, leading to the creation of new products and services.
 
-Empathy in Various Aspects of Business – Marketing
+Empathy in marketing
 ====
 In order to be successful, a business needs to ensure that its marketing programmes are appropriate for its customers. Empathy helps businesses get into the customer's mindset and provides the ability to truly understand the customer better.
 This helps a business make accurate assessments of the needs, wants, and thought processes of its target market.
