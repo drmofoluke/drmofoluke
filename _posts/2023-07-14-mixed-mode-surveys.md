@@ -15,6 +15,8 @@ The purpose of using a mixed-mode survey is to overcome limitations associated w
 Research background
 ====
 Context: The survey research was based in a developing-country context (Nigeria) and carried out at a <a href="https://aber.ac.uk" target="_blank" rel="noopener noreferrer">UK University.
+
+=========
 Data collection: Paper-based and web-based surveys.
 Data analysis: Categorical principal component analysis, latent class analysis of structured data, and thematic analysis.
 
