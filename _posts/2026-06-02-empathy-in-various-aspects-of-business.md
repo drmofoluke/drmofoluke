@@ -62,7 +62,7 @@ Cultural empathy is a key trait of adaptability and is one of the selection crit
 International managers are expected to develop empathy and tolerance toward cultural differences. Being able to demonstrate empathy for different viewpoints makes them more positively perceived in the host country.
 Empathy enhances an expatriate's interactions with people. It indicates an ability to understand and accept diversity, develop honest friendships with foreign nationals, and show a willingness to use, no matter how rudimentary, the host-country language.
 
-Empathy in Various Aspects of Business – Philanthropy
+Empathy in philanthropy
 ====
 Another aspect of empathy is that it generates genuine concern for the needs of others and the desire to serve them.
 It involves experiencing others' emotions by imagining their perspectives and situations, and it is a significant indicator of giving.
