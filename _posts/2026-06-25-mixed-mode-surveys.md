@@ -1,5 +1,5 @@
 ---
-title: 'Intended outcomes unintended consequences'
+title: 'Mixed-mode Surveys'
 date: 2026-06-25
 published: true
 permalink: /posts/2026-06/25/mixed-mode-surveys/
