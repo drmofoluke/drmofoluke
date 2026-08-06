@@ -12,7 +12,7 @@ Mixed-mode surveys combine multiple methods or modes of data collection in a sin
 For example, a mixed-mode survey may involve using paper questionnaires alongside online surveys or conducting phone interviews alongside in-person interviews. The specific combination of modes adopted by a researcher can vary depending on the research objectives, target population, and available resources.
 The purpose of using a mixed-mode survey is to overcome limitations associated with a single mode and enhance data collection effectiveness. Mixed-mode surveys allow researchers to reach a broader range of participants. 
 
-Research background
+Research background 
 ====
 Context: The survey research was based in a developing-country context (Nigeria) and carried out at a Aberysytwth University.
 
