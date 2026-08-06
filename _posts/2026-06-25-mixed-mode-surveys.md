@@ -6,7 +6,7 @@ permalink: /posts/2026-06/25/mixed-mode-surveys/
 tags:
   - research
   - survey
-  - mixed-mode 
+  - mixed-mode  
 ---
 Mixed-mode surveys combine multiple methods or modes of data collection in a single study. That is, instead of relying on a single mode, such as paper-based surveys or face-to-face interviews, researchers use a combination of different modes to collect data from participants.
 For example, a mixed-mode survey may involve using paper questionnaires alongside online surveys or conducting phone interviews alongside in-person interviews. The specific combination of modes adopted by a researcher can vary depending on the research objectives, target population, and available resources.
