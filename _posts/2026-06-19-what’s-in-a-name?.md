@@ -1,5 +1,5 @@
 ---
-title: 'What’s in a name?'
+title: 'What’s in a Name?'
 date: 2026-06-19
 permalink: /posts/2026-06/19/what’s-in-a-name/
 tags:
