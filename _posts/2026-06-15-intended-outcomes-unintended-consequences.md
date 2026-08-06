@@ -11,7 +11,6 @@ tags:
 
 We are embedded in systems, and they are made of dynamic, interacting parts where new patterns emerge unpredictably. Outcomes are nonlinear, emergent, and adaptive. Recently, I was speaking to a group who asked me two specific questions, and I have been mulling over them for days now and decided to write this extended post, building on the talk. The first question was to share the path that led me to where I am and how I first encountered them as a group. With limited time allotted, I decided to speak the language they would understand.
 
-
 Systems
 ======
 I explained that a marketing system is an interaction between many parts, institutions, actors, processes, and activities (firms, consumers, channels, platforms, etc.). One broad intended outcome of their interactions is customer satisfaction. For example, a company may want to review its pricing objectives to identify the intended outcome. The clarification of overall pricing objectives is important if pricing strategy is to be effective.
