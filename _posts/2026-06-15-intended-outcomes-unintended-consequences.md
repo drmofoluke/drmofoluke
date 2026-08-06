@@ -2,7 +2,7 @@
 title: 'Intended Outcomes Unintended Consequences'
 date: 2026-06-15
 published: true
-permalink: /posts/2026-06/15/intended-outcomes-unintended-consequences/
+permalink: /posts/2026-06/15/intended-outcomes-unintended-consequences/ 
 tags:
   - outcomes
   - consequences
