@@ -1,6 +1,6 @@
 ---
 title: 'Mixed-mode Surveys'
-date: 2026-07-14
+date: 2023-07-14
 published: true
 permalink: /posts/2023-07/14/mixed-mode-surveys/
 tags:
