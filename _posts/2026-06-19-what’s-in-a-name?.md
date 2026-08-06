@@ -45,4 +45,5 @@ Not every English name is a Christian name and some non-English names have scrip
 Just me loving the symbol-meaning-action interpretive lens 
 
 😁📖 
+
 I hope I made you look up scriptures. Happy weekend! 
