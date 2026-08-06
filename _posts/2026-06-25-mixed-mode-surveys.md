@@ -1,8 +1,8 @@
 ---
 title: 'Mixed-mode Surveys'
-date: 2023-07-14
+date: 2026-06-25
 published: true
-permalink: /posts/2023-07/14/mixed-mode-surveys/
+permalink: /posts/2026-06/25/mixed-mode-surveys/
 tags:
   - research
   - survey
