@@ -15,7 +15,7 @@ Mixed-mode surveys allow researchers to reach a broader range of participants.
 
 Research background 
 ====
-Context: The survey research was based in a developing-country context (Nigeria) and carried out at a Aberysytwth University.
+Context: The survey research was based in a developing-country context (Nigeria) and carried out at a Aberystwyth University.
 
 Data collection: Paper-based and web-based surveys.
 
@@ -31,6 +31,6 @@ Conclusion
 After studying this case, readers should be able to understand why mixed-mode surveys are chosen based on methodological considerations. 
 Readers should also be able to understand the connection between research questions and data analysis techniques. Finally, they should be able to explain the rationale behind the effective use of mixed-mode surveys.
 
-Akiode, M., & Fuller-Love, N. (2023). Using Mixed-Mode Survey in Exploring Transnational Entrepreneurial Ecosystems. Sage Research Methods: Business:/publication/2023-03-21-using-mixed-mode-survey-in-exploring-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems'. 
+Akiode, M., & Fuller-Love, N. (2023). Using Mixed-Mode Survey in Exploring Transnational Entrepreneurial Ecosystems. Sage Research Methods: Business:/publication/2023-03-21-using-mixed-mode-survey-in-exploring-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems/. 
 
-Readers might also be interested in the paper: /publication/2020-01-13-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems-a-critical-review/.
+Readers might also be interested in the paper:/publication/2020-01-13-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems-a-critical-review/.
