@@ -35,4 +35,3 @@ I told them that whether they meet under a tree or on a rooftop, they should bea
    
 I might one day write a book titled The Intended Outcomes, Unintended Consequences, because “yet in all these things we are more than conquerors through Him who loved us” (Romans 8:37).
 
-------
