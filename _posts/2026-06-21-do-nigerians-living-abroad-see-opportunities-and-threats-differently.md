@@ -1,5 +1,5 @@
 ---
-title: 'Do Nigerians Living Abroad See Opportunities and Threats Differently?'
+title: 'Do Nigerians Living Abroad See Opportunities and Threats Differently?' 
 date: 2026-06-21 
 published: true
 permalink: /posts/2026-06/21/do-nigerians-living-abroad-see-opportunities-and-threats-differently/
