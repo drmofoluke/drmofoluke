@@ -33,4 +33,4 @@ Readers should also be able to understand the connection between research questi
 
 Akiode, M., & Fuller-Love, N. (2023). Using Mixed-Mode Survey in Exploring Transnational Entrepreneurial Ecosystems. Sage Research Methods: Business:<a href="/publication/2023-03-21-using-mixed-mode-survey-in-exploring-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems</a>. 
 
-Readers might also be interested in the paper<a href="/publication/2020-01-13-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystemsal-review/Transnational Entrepreneurs’ Dynamics in Entrepreneurial Ecosystems: A Critical Review</a>.
+Readers might also be interested in the <a href="/publication/2020-01-13-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystemsal-review/Transnational Entrepreneurs’ Dynamics in Entrepreneurial Ecosystems: A Critical Review" target="_blank" rel="noopener noreferrer"> paper</a>.
