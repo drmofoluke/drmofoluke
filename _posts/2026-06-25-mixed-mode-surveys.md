@@ -25,12 +25,12 @@ Case study: Using a mixed-mode survey to explore transnational entrepreneurs’ 
 ====
 This case study examines how a mixed-mode survey was used to investigate how non-local or transnational (diaspora) actors and their resources can help achieve the unmet goals of entrepreneurial ecosystems.
 In addition, the case discusses how this approach helped reach a population that is difficult to access, improve response rates, capture diverse perspectives, and address the preferences and accessibility needs of different individuals. It also discusses how data was gathered through structured responses from a large and geographically diverse audience.
-Readers might also be interested in the paper: Transnational Entrepreneurs’ Dynamics in Entrepreneurial Ecosystems: A Critical Review.
 
 Conclusion
 ====
 After studying this case, readers should be able to understand why mixed-mode surveys are chosen based on methodological considerations. 
 Readers should also be able to understand the connection between research questions and data analysis techniques. Finally, they should be able to explain the rationale behind the effective use of mixed-mode surveys.
 
-Akiode, M., & Fuller-Love, N. (2023). Using Mixed-Mode Survey in Exploring Transnational Entrepreneurial Ecosystems. Sage Research Methods: Business. 
+Akiode, M., & Fuller-Love, N. (2023). Using Mixed-Mode Survey in Exploring Transnational Entrepreneurial Ecosystems. Sage Research Methods: Business:/publication/2023-03-21-using-mixed-mode-survey-in-exploring-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems'. 
 
+Readers might also be interested in the paper: /publication/2020-01-13-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems-a-critical-review/.
