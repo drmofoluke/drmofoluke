@@ -15,7 +15,7 @@ Mixed-mode surveys allow researchers to reach a broader range of participants.
 
 Research background 
 ====
-Context: The survey research was based in a developing-country context (Nigeria) and carried out at a href="<a href="https://aber.ac.uk" target="_blank" rel="noopener noreferrer"> UK University</a>.
+Context: The survey research was based in a developing-country context (Nigeria) and carried out at a <a href="https://aber.ac.uk" target="_blank" rel="noopener noreferrer"> UK University</a>.
 
 Data collection: Paper-based and web-based surveys.
 
@@ -31,6 +31,6 @@ Conclusion
 After studying this case, readers should be able to understand why mixed-mode surveys are chosen based on methodological considerations. 
 Readers should also be able to understand the connection between research questions and data analysis techniques. Finally, they should be able to explain the rationale behind the effective use of mixed-mode surveys.
 
-Akiode, M., & Fuller-Love, N. (2023). Using Mixed-Mode Survey in Exploring Transnational Entrepreneurial Ecosystems.<a href="<a href="/publication/2023-03-21-using-mixed-mode-survey-in-exploring-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems" target="_blank" rel="noopener noreferrer"> Sage Research Methods: Business</a>. 
+Akiode, M., & Fuller-Love, N. (2023). Using Mixed-Mode Survey in Exploring Transnational Entrepreneurial Ecosystems. <a href="/publication/2023-03-21-using-mixed-mode-survey-in-exploring-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystems" target="_blank" rel="noopener noreferrer"> Sage Research Methods: Business</a>. 
 
 Readers might also be interested in this <a href="/publication/2020-01-13-transnational-entrepreneurs-dynamics-in-entrepreneurial-ecosystemsal-review/Transnational Entrepreneurs’ Dynamics in Entrepreneurial Ecosystems: A Critical Review" target="_blank" rel="noopener noreferrer"> paper</a>.
