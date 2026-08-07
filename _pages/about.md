@@ -49,3 +49,6 @@ Prior to my academic career pursuits:
 (4) I have a Bachelor’s degree in Accounting (2nd Class Upper) from University of Ilorin, Nigeria and a Master’s in Management and International Business (Distinction) from Birmingham City University, UK.
 
 Thank you for visiting, and I look forward to connecting with you.
+
+
+<a href="/contact/" target="_blank" rel="noopener noreferrer"> YOU CAN CONTACT ME HERE</a>.
