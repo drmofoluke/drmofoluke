@@ -51,4 +51,4 @@ Prior to my academic career pursuits:
 Thank you for visiting, and I look forward to connecting with you.
 
 
-<a href="/contact/" target="_blank" rel="noopener noreferrer"> YOU CAN CONTACT ME HERE</a>.
+<a href="/contact/" target="_self" rel="noopener noreferrer"> YOU CAN CONTACT ME HERE</a>.
