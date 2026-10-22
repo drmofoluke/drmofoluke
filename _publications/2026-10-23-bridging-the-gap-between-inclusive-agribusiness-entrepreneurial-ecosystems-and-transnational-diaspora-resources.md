@@ -1,5 +1,5 @@
 ---
-title: "Transnational Entrepreneurs’ Dynamics in Entrepreneurial Ecosystems: A Critical Review. Journal of Entrepreneurship and Innovation in Emerging Economies"
+title: "Bridging the Gap Between Inclusive Agribusiness Entrepreneurial Ecosystems and Transnational Diaspora Resources"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-10-23-bridging-the-gap-between-inclusive-agribusiness-entrepreneurial-ecosystems-and-transnational-diaspora-resources
