@@ -2,7 +2,7 @@
 title: "It takes an ecosystem to reduce poverty: a call for research on inclusive business entrepreneurial ecosystems"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-12-14-it-takes-an-ecosystem-to-reduce-poverty-a-call-for-research-on-inclusive-business-entrepreneurial-ecosystems
+permalink: /publication/2026-06-12-it-takes-an-ecosystem-to-reduce-poverty-a-call-for-research-on-inclusive-business-entrepreneurial-ecosystems
 excerpt: 'This paper is about Inclusive business (IB), a sustainable development strategy and poverty alleviation intervention that is receiving growing scholarly and policy interest.'
 date: 2026-12-14
 venue: 'Emerald Insight: RAE: Revista de Administracao de Empresas'
