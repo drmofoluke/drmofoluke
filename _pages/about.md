@@ -6,9 +6,27 @@ redirect_from:
   - /about/
   - /about.html
 ---
+> [!IMPORTANT]
+> 🎉 **New Publication Alert**
+>
+> Our paper, **"Bridging the Gap Between Inclusive Agribusiness Entrepreneurial Ecosystems and Transnational Diaspora Resources"**, has been **accepted for publication** in *The Journal of Entrepreneurship* and will appear in an upcoming special issue.
 
 
-STRIVING FOR A LIFETIME OF ARETE
+
+
+----------------------------------------------------
+I am a lecturer at University of Ilorin, and a researcher committed to advancing scholarly knowledge in the areas of Entrepreneurial Ecosystems, Transnational (diaspora) Entrepreneurship, and Inclusive Business.
+My journey in research has been driven by a relentless commitment to exploring these research areas and contributing valuable insights to them. I firmly believe that research is a powerful catalyst for positive change, and my work is driven by the aim to foster growth, innovation, and transformation.
+
+## Awards & Recognition
+
+- 🎓 2026 Merit Award, University of Ilorin, oct. 2026
+- 🏆 Best Research Paper Award, University of Guelph-Humber International Applied Business Conference (2021)
+- 🎓 Graduate Teaching Assistant, Aberystwyth Business School (2014)
+- 🥇 MD CEO Award, Zenith Bank (2022)
+
+
+Striving for a lifetime of Arete
 ======
 Thanks for stopping by! I’m glad you’re here. You might be wondering about the story behind my slogan “Striving for a lifetime of Arete” – here’s what it’s all about.
 
@@ -31,7 +49,7 @@ One of my research interests is exploring how to support disadvantaged groups (l
 Finally, I believe Arete is a lifelong journey, hence the word ‘striving.’ As Paul wrote, “I don’t mean to say that I have already achieved these things or that I have already reached perfection. But I press on to possess that perfection for which Christ Jesus first possessed me” (Philippians 3:12).
 
 
-MOFOLUKE (4Is)
+Mofoluke (4Is)
 ======
 Prior to my academic career pursuits:
 
@@ -44,6 +62,15 @@ Prior to my academic career pursuits:
 (4) I have a Bachelor’s degree in Accounting (2nd Class Upper) from University of Ilorin, Nigeria and a Master’s in Management and International Business (Distinction) from Birmingham City University, UK.
 
 Thank you for visiting, and I look forward to connecting with you.
+
+## Awards & Recognition
+
+- 🎓 2026 Merit Award, University of Ilorin, oct. 2026
+- 🏆 Best Research Paper Award, University of Guelph-Humber International Applied Business Conference (2021)
+- 🎓 Graduate Teaching Assistant, Aberystwyth Business School (2014)
+- 🥇 MD CEO Award, Zenith Bank (2022)
+
+
 
 
 <a href="/contact/" target="_self" rel="noopener noreferrer"> YOU CAN CONTACT ME HERE</a>.
