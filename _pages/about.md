@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 STRIVING FOR A LIFETIME OF ARETE
 ======
 Thanks for stopping by! I’m glad you’re here. You might be wondering about the story behind my slogan “Striving for a lifetime of Arete” – here’s what it’s all about.
