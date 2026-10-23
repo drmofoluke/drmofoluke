@@ -18,14 +18,6 @@ redirect_from:
 I am a lecturer at University of Ilorin, and a researcher committed to advancing scholarly knowledge in the areas of Entrepreneurial Ecosystems, Transnational (diaspora) Entrepreneurship, and Inclusive Business.
 My journey in research has been driven by a relentless commitment to exploring these research areas and contributing valuable insights to them. I firmly believe that research is a powerful catalyst for positive change, and my work is driven by the aim to foster growth, innovation, and transformation.
 
-## Awards & Recognition
-
-- 🎓 2026 Merit Award, University of Ilorin, oct. 2026
-- 🏆 Best Research Paper Award, University of Guelph-Humber International Applied Business Conference (2021)
-- 🎓 Graduate Teaching Assistant, Aberystwyth Business School (2014)
-- 🥇 MD CEO Award, Zenith Bank (2022)
-
-
 Striving for a lifetime of Arete
 ======
 Thanks for stopping by! I’m glad you’re here. You might be wondering about the story behind my slogan “Striving for a lifetime of Arete” – here’s what it’s all about.
