@@ -9,7 +9,7 @@ redirect_from:
 > [!IMPORTANT]
 > 🎉 **New Publication Alert**
 >
-> Our paper, **"Bridging the Gap Between Inclusive Agribusiness Entrepreneurial Ecosystems and Transnational Diaspora Resources"**, has been **accepted for publication** in *The Journal of Entrepreneurship* and will appear in an upcoming special issue.
+> Our paper, **"Bridging the Gap Between Inclusive Agribusiness Entrepreneurial Ecosystems and Transnational Diaspora Resources"**, has been **accepted for publication** in *The Journal of Entrepreneurship* and will appear in an upcoming (Nov. 2026) special issue.
 
 
 
