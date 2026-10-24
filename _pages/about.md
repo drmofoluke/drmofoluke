@@ -10,18 +10,26 @@ redirect_from:
 > 🎉 **New Publication Alert**
 >
 > Our paper, **"Bridging the Gap Between Inclusive Agribusiness Entrepreneurial Ecosystems and Transnational Diaspora Resources"**, has been **accepted for publication** in *The Journal of Entrepreneurship* and will appear in an upcoming (Nov. 2026) special issue.
+> 
+-------------------------------------------------------
 
+<div style="padding:15px; border-left:5px solid #f39c12; background-color:#fff8e1;">
+  <strong>🎉 Exciting News!</strong><br><br>
 
-
+  🏆 I am honored to receive the 2026 University Merit Award
+  <strong>from the University of Ilorin</strong>. I am sincerely grateful for this recognition and for the support of my colleagues, students, collaborators, mentors, friends, and family. This award motivates me to continue pursuing impactful research and scholarly excellence.
+</div>
 
 ----------------------------------------------------
-I am a lecturer at University of Ilorin, and a researcher committed to advancing scholarly knowledge in the areas of Entrepreneurial Ecosystems, Transnational (diaspora) Entrepreneurship, and Inclusive Business.
-My journey in research has been driven by a relentless commitment to exploring these research areas and contributing valuable insights to them. I firmly believe that research is a powerful catalyst for positive change, and my work is driven by the aim to foster growth, innovation, and transformation.
+
 
 Striving for a lifetime of Arete
 ======
-Thanks for stopping by! I’m glad you’re here. You might be wondering about the story behind my slogan “Striving for a lifetime of Arete” – here’s what it’s all about.
+I am a lecturer at University of Ilorin, and a researcher committed to advancing scholarly knowledge in the areas of Entrepreneurial Ecosystems, Transnational (diaspora) Entrepreneurship, and Inclusive Business.
+My journey in research has been driven by a relentless commitment to exploring these research areas and contributing valuable insights to them. I firmly believe that research is a powerful catalyst for positive change, and my work is driven by the aim to foster growth, innovation, and transformation.
 
+Thanks for stopping by! 
+I’m glad you’re here. You might be wondering about the story behind my slogan <strong>“Striving for a lifetime of Arete”</strong>–here’s what it’s all about.<br><br>
 It’s a slogan that reflects my core values and what I want to convey to others. I’ve used it on my old websites and on my social media profiles. You can also think of it as a personal branding tool that concisely communicates who I am and what I stand for.
 
 Fun fact: My Ph.D. website was Arete Scholar, and after graduation, I had a small business website called Arete for Businesses. And there’s also Arete Trailblazers…
