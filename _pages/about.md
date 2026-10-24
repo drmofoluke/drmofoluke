@@ -57,10 +57,10 @@ Thank you for visiting, and I look forward to connecting with you.
 
 ## Awards & Recognition
 
-- 🎓 2026 Merit Award, University of Ilorin, oct. 2026
+- 🎓 2026 Merit Award, University of Ilorin, Oct. 2026
 - 🏆 Best Research Paper Award, University of Guelph-Humber International Applied Business Conference (2021)
 - 🎓 Graduate Teaching Assistant, Aberystwyth Business School (2014)
-- 🥇 MD CEO Award, Zenith Bank (2022)
+- 🥇 MD CEO Award, Zenith Bank (2002)
 
 
 
